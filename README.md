@@ -17,3 +17,6 @@ For this project, Amazon Review Dataset (2018) have been utilized. It is an upda
 | Tools and home improvement 	| 1.017 	|
 
 
+The code has not been tested on a multicluster system. Above results are produced by experimenting on a single cluster machine.
+
+
